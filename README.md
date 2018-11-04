@@ -2,8 +2,8 @@
 CL300 smartcopilot file improvments.
 
 TODO List:
--[] Weather
--[] Time Zulu
--[] Pause
--[] Sync FMC
--[] APU GEN
+- [ ] Weather
+- [ ] Time Zulu
+- [ ] Pause
+- [ ] Sync FMC
+- [ ] APU GEN
