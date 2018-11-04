@@ -7,3 +7,7 @@ TODO List:
 - [x] Pause
 - [ ] Sync FMC
 - [ ] APU GEN
+
+Animations:
+- [x] Main Doors
+
