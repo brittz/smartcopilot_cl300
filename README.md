@@ -5,7 +5,7 @@ TODO List:
 - [x] Weather
 - [x] Time Zulu
 - [x] Pause
-- [ ] Sync FMC
+- [x] Sync FMC
 - [ ] APU GEN
 
 Animations:
